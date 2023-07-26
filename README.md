@@ -6,9 +6,11 @@ Built with Create React App + Three.js
 
 ```
 git clone https://github.com/DamcoS10/Emboard.git
-cd Emboard
+cd Emboard/src/backend
 npm install
-npm run start
+cd ../../
+npm install
+npm start
 ```
 Open [http://127.0.0.1:5173] to view it in the browser.
 
