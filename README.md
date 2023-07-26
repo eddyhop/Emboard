@@ -9,7 +9,7 @@ git clone https://github.com/DamcoS10/Emboard.git
 cd Emboard/src/backend
 npm install
 cd ../../
-npm install
+npm install --legacy-peer-deps
 npm start
 ```
 Open [http://127.0.0.1:5173] to view it in the browser.
